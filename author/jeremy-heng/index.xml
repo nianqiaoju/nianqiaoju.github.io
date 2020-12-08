@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Heng | Nianqiao Ju</title>
+    <link>https://nianqiaoju.github.io/author/jeremy-heng/</link>
+      <atom:link href="https://nianqiaoju.github.io/author/jeremy-heng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Heng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeremy Heng</title>
+      <link>https://nianqiaoju.github.io/author/jeremy-heng/</link>
+    </image>
+    
+    <item>
+      <title>A simple Markov chain for independent Bernoulli variables conditioned on their sum</title>
+      <link>https://nianqiaoju.github.io/publication/condbern/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/condbern/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

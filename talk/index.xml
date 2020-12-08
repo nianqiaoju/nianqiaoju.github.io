@@ -5,7 +5,7 @@
     <link>https://nianqiaoju.github.io/talk/</link>
       <atom:link href="https://nianqiaoju.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 12:00:00 -1230</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>MCMC for independent Bernoullis conditioning on their sum</title>
       <link>https://nianqiaoju.github.io/talk/condbern/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2020 12:00:00 -1230</pubDate>
       <guid>https://nianqiaoju.github.io/talk/condbern/</guid>
       <description></description>
     </item>

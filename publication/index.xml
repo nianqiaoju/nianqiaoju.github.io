@@ -5,12 +5,20 @@
     <link>https://nianqiaoju.github.io/publication/</link>
       <atom:link href="https://nianqiaoju.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://nianqiaoju.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A simple Markov chain for independent Bernoulli variables conditioned on their sum</title>
+      <link>https://nianqiaoju.github.io/publication/condbern/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/condbern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BETS: The dangers of selection bias in early analyses of the coronavirus disease (COVID-19) pandemic</title>
