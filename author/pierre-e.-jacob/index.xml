@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Nianqiao Ju</title>
-    <link>https://nianqiaoju.github.io/publication-type/3/</link>
-      <atom:link href="https://nianqiaoju.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Pierre E. Jacob | Nianqiao Ju</title>
+    <link>https://nianqiaoju.github.io/author/pierre-e.-jacob/</link>
+      <atom:link href="https://nianqiaoju.github.io/author/pierre-e.-jacob/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre E. Jacob</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_2.png</url>
-      <title>3</title>
-      <link>https://nianqiaoju.github.io/publication-type/3/</link>
+      <title>Pierre E. Jacob</title>
+      <link>https://nianqiaoju.github.io/author/pierre-e.-jacob/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nianqiaoju.github.io/publication/agent1/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/publication/agent1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A simple Markov chain for independent Bernoulli variables conditioned on their sum</title>
-      <link>https://nianqiaoju.github.io/publication/condbern/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/condbern/</guid>
       <description></description>
     </item>
     
