@@ -5,12 +5,28 @@
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 13:30:00 -1230</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 17:00:44 -1740</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_2.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/</link>
     </image>
+    
+    <item>
+      <title>Bernoulli, sum of Bernoullis and Markov chain</title>
+      <link>https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/</link>
+      <pubDate>Wed, 17 Mar 2021 17:00:44 -1740</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Monte Carlo algorithms for agent-based models of disease transmission</title>
+      <link>https://nianqiaoju.github.io/talk/warwick-seminar-2021/</link>
+      <pubDate>Fri, 26 Feb 2021 08:00:25 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/warwick-seminar-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sequential Monte Carlo algorithms for agent-based models of disease transmission</title>
