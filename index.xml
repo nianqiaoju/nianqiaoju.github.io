@@ -85,12 +85,35 @@
     </item>
     
     <item>
+      <title>News archive</title>
+      <link>https://nianqiaoju.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/news/</guid>
+      <description>&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;I am organizing a &lt;a href=&#34;https://www.samsi.info/programs-and-activities/semester-long-programs/program-on-data-science-in-the-social-and-behavioral-sciences/pros-and-cons-of-abms-for-epidemic-modeling-virtual-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAMSI workshop on &amp;ldquo;Pros and Cons of ABMs for Epidemic Modeling&amp;rdquo;&lt;/a&gt;. This is held June 21st - 22nd, 2021.&lt;/li&gt;
+&lt;li&gt;I defended on dissertation &amp;ldquo;Statistical Methods in Infectious Disease Modeling: Agent-based Models, Computations, and Selection Biases&amp;rdquo; on May 14th, 2021.&lt;/li&gt;
+&lt;li&gt;Starting August 2021, I will be Assisant Professor in Statistics at Purdue University.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://nianqiaoju.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/teaching/</guid>
-      <description>&lt;p&gt;Teaching Fellow for Stat 210: Probability Theory I, Fall 2017, 2018 &amp;amp; 2019&lt;/p&gt;
-&lt;p&gt;Teaching Fellow for Stat 213: Statistical Inference II, Spring 2018 &amp;amp; 2019&lt;/p&gt;
+      <description>&lt;h1 id=&#34;at-harvard&#34;&gt;At Harvard&lt;/h1&gt;
+&lt;p&gt;I was a Teaching Fellow for the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stat 210: Probability Theory I (Fall 2017, 2018, and 2019).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stat 213: Statistical Inference II (Spring 2018 and 2019).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All courses are graduate-level unless otherwise noted.&lt;/p&gt;
 </description>
     </item>
     
