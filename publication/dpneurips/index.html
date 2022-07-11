@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Differentially private mechanisms protect privacy by introducing additional randomness into the data. Restricting access to only the privatized data makes it challenging to perform valid statistical inference on parameters underlying the confidential data. Specifically, the likelihood function of the privatized data requires integrating over the large space of confidential databases and is typically intractable. For Bayesian analysis, this results in a posterior distribution that is doubly intractable, rendering traditional MCMC techniques inapplicable. We propose an MCMC framework to perform Bayesian inference from the privatized data, which is applicable to a wide range of statistical models and privacy mechanisms. Our MCMC algorithm augments the model parameters with the unobserved confidential data, and alternately updates each one conditional on the other. For the potentially challenging step of updating the confidential data, we propose a generic approach that exploits the privacy guarantee of the mechanism to ensure efficiency. In particular, we give results on the computational complexity, acceptance rate, and mixing properties of our MCMC. We illustrate the efficacy and applicability of our methods on a naïve-Bayes log-linear model as well as on a linear regression model.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/">
+  <link rel="alternate" hreflang="en-us" href="https://nianqiaoju.github.io/publication/dpneurips/">
 
   
 
@@ -262,7 +262,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/">
+  <link rel="canonical" href="https://nianqiaoju.github.io/publication/dpneurips/">
 
   
   
@@ -278,23 +278,26 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Nianqiao Ju">
-  <meta property="og:url" content="https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/">
-  <meta property="og:title" content="Bernoulli, sum of Bernoullis and Markov chain | Nianqiao Ju">
-  <meta property="og:description" content=""><meta property="og:image" content="https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="https://nianqiaoju.github.io/publication/dpneurips/">
+  <meta property="og:title" content="Data Augmentation MCMC for Bayesian Inference from Privatized Data | Nianqiao Ju">
+  <meta property="og:description" content="Differentially private mechanisms protect privacy by introducing additional randomness into the data. Restricting access to only the privatized data makes it challenging to perform valid statistical inference on parameters underlying the confidential data. Specifically, the likelihood function of the privatized data requires integrating over the large space of confidential databases and is typically intractable. For Bayesian analysis, this results in a posterior distribution that is doubly intractable, rendering traditional MCMC techniques inapplicable. We propose an MCMC framework to perform Bayesian inference from the privatized data, which is applicable to a wide range of statistical models and privacy mechanisms. Our MCMC algorithm augments the model parameters with the unobserved confidential data, and alternately updates each one conditional on the other. For the potentially challenging step of updating the confidential data, we propose a generic approach that exploits the privacy guarantee of the mechanism to ensure efficiency. In particular, we give results on the computational complexity, acceptance rate, and mixing properties of our MCMC. We illustrate the efficacy and applicability of our methods on a naïve-Bayes log-linear model as well as on a linear regression model."><meta property="og:image" content="https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-02-23T12:50:44-05:00">
+      <meta property="article:published_time" content="2021-06-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-03-17T17:00:44-17:40">
+    <meta property="article:modified_time" content="2022-06-01T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -302,55 +305,48 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/"
+    "@id": "https://nianqiaoju.github.io/publication/dpneurips/"
   },
-  "name": "Bernoulli, sum of Bernoullis and Markov chain",
+  "headline": "Data Augmentation MCMC for Bayesian Inference from Privatized Data",
   
-  "location": {
-    "@type": "Place",
-    "name": "Wellesley College Math Department, Wellesley, MA, USA",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "",
-      "addressLocality": "",
-      "postalCode": "",
-      "addressRegion": "",
-      "addressCountry": ""
-    }
-    
-  },
+  "datePublished": "2021-06-01T00:00:00Z",
+  "dateModified": "2022-06-01T00:00:00Z",
   
-  
-  "startDate": "2021-03-17T17:00:44-17:40",
-  
-  "endDate": "2021-03-17T17:40:44-17:50",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
     "name": "Nianqiao Ju"
   },
   
-  "description": ""
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nianqiao Ju",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Differentially private mechanisms protect privacy by introducing additional randomness into the data. Restricting access to only the privatized data makes it challenging to perform valid statistical inference on parameters underlying the confidential data. Specifically, the likelihood function of the privatized data requires integrating over the large space of confidential databases and is typically intractable. For Bayesian analysis, this results in a posterior distribution that is doubly intractable, rendering traditional MCMC techniques inapplicable. We propose an MCMC framework to perform Bayesian inference from the privatized data, which is applicable to a wide range of statistical models and privacy mechanisms. Our MCMC algorithm augments the model parameters with the unobserved confidential data, and alternately updates each one conditional on the other. For the potentially challenging step of updating the confidential data, we propose a generic approach that exploits the privacy guarantee of the mechanism to ensure efficiency. In particular, we give results on the computational complexity, acceptance rate, and mixing properties of our MCMC. We illustrate the efficacy and applicability of our methods on a naïve-Bayes log-linear model as well as on a linear regression model."
 }
 </script>
 
   
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Bernoulli, sum of Bernoullis and Markov chain | Nianqiao Ju</title>
+
+
+  <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data | Nianqiao Ju</title>
 
 </head>
 
@@ -501,7 +497,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Publications</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -640,7 +636,16 @@
   </div>
 
   <div class="page-body">
-    <div class="pub">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -661,7 +666,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Bernoulli, sum of Bernoullis and Markov chain</h1>
+  <h1>Data Augmentation MCMC for Bayesian Inference from Privatized Data</h1>
 
   
 
@@ -673,7 +678,28 @@
 
   
   
+  
+  
+  <div>
+    
 
+  <span >
+      <a href="/author/nianqiao-ju/">Nianqiao Ju</a></span>, <span >
+      <a href="/author/jordan-a.-awan/">Jordan A. Awan</a></span>, <span >
+      <a href="/author/ruobin-gong/">Ruobin Gong</a></span>, <span >
+      <a href="/author/vinayak-a.-rao/">Vinayak A. Rao</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June 2022
+  </span>
   
 
   
@@ -704,6 +730,53 @@
 
 
 
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2206.00710" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nianqiaoju/dataaugmentation-mcmc-differentialprivacy" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 
 
   
@@ -714,33 +787,21 @@
   <div class="article-container">
 
     
-      <br>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Differentially private mechanisms protect privacy by introducing additional randomness into the data. Restricting access to only the privatized data makes it challenging to perform valid statistical inference on parameters underlying the confidential data. Specifically, the likelihood function of the privatized data requires integrating over the large space of confidential databases and is typically intractable. For Bayesian analysis, this results in a posterior distribution that is doubly intractable, rendering traditional MCMC techniques inapplicable. We propose an MCMC framework to perform Bayesian inference from the privatized data, which is applicable to a wide range of statistical models and privacy mechanisms. Our MCMC algorithm augments the model parameters with the unobserved confidential data, and alternately updates each one conditional on the other. For the potentially challenging step of updating the confidential data, we propose a generic approach that exploits the privacy guarantee of the mechanism to ensure efficiency. In particular, we give results on the computational complexity, acceptance rate, and mixing properties of our MCMC. We illustrate the efficacy and applicability of our methods on a naïve-Bayes log-linear model as well as on a linear regression model.</p>
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9">
-            Mar 17, 2021 5:00 PM &mdash; 5:40 PM
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-
+    
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            
-            Wellesley College Mathematics Colloqium
-            
+            <a href="/publication/#3">
+              Preprint
+            </a>
           </div>
         </div>
       </div>
@@ -754,12 +815,8 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Wellesley College Math Department, Wellesley, MA, USA</div>
-          
-            <div class="col-md-3"></div>
-            <div class="col-12 col-md-9"></div>
-          
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">arXiv preprint</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -769,9 +826,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-      
-    </div>
+    <div class="article-style"></div>
 
     
 
@@ -793,7 +848,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/&amp;text=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://nianqiaoju.github.io/publication/dpneurips/&amp;text=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -806,7 +861,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/&amp;t=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://nianqiaoju.github.io/publication/dpneurips/&amp;t=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -819,7 +874,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain&amp;body=https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data&amp;body=https://nianqiaoju.github.io/publication/dpneurips/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -832,7 +887,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/&amp;title=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://nianqiaoju.github.io/publication/dpneurips/&amp;title=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -845,7 +900,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain%20https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data%20https://nianqiaoju.github.io/publication/dpneurips/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -858,7 +913,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://nianqiaoju.github.io/talk/wellesley-colloqium-2021/&amp;title=Bernoulli,%20sum%20of%20Bernoullis%20and%20Markov%20chain" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://nianqiaoju.github.io/publication/dpneurips/&amp;title=Data%20Augmentation%20MCMC%20for%20Bayesian%20Inference%20from%20Privatized%20Data" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -878,66 +933,60 @@
 
   
   
+    
 
 
 
-  
-  
+
   
     
+
+
+
+
   
-  
-  
-  <div class="media author-card content-widget-hr">
     
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
       
-      <a href="https://nianqiaoju.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/nianqiao-ju/avatar_huc09fd31ce9bb786d1041f70ffa59556f_2869342_270x270_fill_q90_lanczos_center.jpg" alt="Nianqiao Ju"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="https://nianqiaoju.github.io/">Nianqiao Ju</a></h5>
-      <h6 class="card-subtitle">Assistant Professor of Statistics</h6>
+      <li><a href="/publication/agent1/">Sequential Monte Carlo algorithms for agent-based models of disease transmission</a></li>
       
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
+      <li><a href="/publication/condbern/">A simple Markov chain for independent Bernoulli variables conditioned on their sum</a></li>
       
-    
-    
-    
-    
-    
+      <li><a href="/publication/bets/">BETS: The dangers of selection bias in early analyses of the coronavirus disease (COVID-19) pandemic</a></li>
       
-    
-    <li>
-      <a href="https://github.com/nianqiaoju" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
+      <li><a href="/publication/etsy/">A Sequential Test for Selecting the Better Variant: Online A/B testing, Adaptive Allocation, and Continuous Monitoring</a></li>
+      
+    </ul>
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   
 
 
