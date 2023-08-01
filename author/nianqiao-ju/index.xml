@@ -5,12 +5,60 @@
     <link>https://nianqiaoju.github.io/author/nianqiao-ju/</link>
       <atom:link href="https://nianqiaoju.github.io/author/nianqiao-ju/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nianqiaoju.github.io/author/nianqiao-ju/avatar_huc09fd31ce9bb786d1041f70ffa59556f_2869342_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/author/nianqiao-ju/</link>
     </image>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data</title>
+      <link>https://nianqiaoju.github.io/publication/dpneurips/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/dpneurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Monte Carlo algorithms for agent-based models of disease transmission</title>
+      <link>https://nianqiaoju.github.io/publication/agent1/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/agent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple Markov chain for independent Bernoulli variables conditioned on their sum</title>
+      <link>https://nianqiaoju.github.io/publication/condbern/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/condbern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BETS: The dangers of selection bias in early analyses of the coronavirus disease (COVID-19) pandemic</title>
+      <link>https://nianqiaoju.github.io/publication/bets/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/bets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Sequential Test for Selecting the Better Variant: Online A/B testing, Adaptive Allocation, and Continuous Monitoring</title>
+      <link>https://nianqiaoju.github.io/publication/etsy/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/etsy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

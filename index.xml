@@ -5,12 +5,52 @@
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2023 10:30:00 -1100</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/</link>
     </image>
+    
+    <item>
+      <title> SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections </title>
+      <link>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</link>
+      <pubDate>Mon, 07 Aug 2023 10:30:00 -1100</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data </title>
+      <link>https://nianqiaoju.github.io/talk/mcmcdp1-cas23/</link>
+      <pubDate>Mon, 17 Jul 2023 11:00:50 -0400</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcdp1-cas23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/talk/snp-slice-icsa23/</link>
+      <pubDate>Tue, 13 Jun 2023 13:30:00 -0400</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/snp-slice-icsa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data</title>
+      <link>https://nianqiaoju.github.io/talk/mcmcdp1-bff8/</link>
+      <pubDate>Fri, 05 May 2023 15:00:00 -1600</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcdp1-bff8/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data</title>
@@ -97,9 +137,16 @@
       <link>https://nianqiaoju.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/news/</guid>
-      <description>&lt;h1 id=&#34;2022&#34;&gt;2022&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2023&#34;&gt;2023&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Our paper &lt;a href=&#34;https://arxiv.org/abs/2206.00710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Augmentation MCMC for Bayesian Inference from Privatized Data&lt;/a&gt; with Jordan A. Awan, Ruobin Gong, and Vinayak A. Rao is on arxiv.&lt;/li&gt;
+&lt;li&gt;Our paper &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.07.29.551098v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections&lt;/a&gt; with Jiawei Liu and Qixin is on Biorxiv.&lt;/li&gt;
+&lt;li&gt;I am teaching Stat/Math 416: Probability in Fall 2023.&lt;/li&gt;
+&lt;li&gt;Qixin He and I received the 2023 Showalter Trust Research Award.&lt;/li&gt;
+&lt;li&gt;I am teaching Stat 695: Unsupervised Learning in Spring 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2022&#34;&gt;2022&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Our paper &lt;a href=&#34;https://arxiv.org/abs/2206.00710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Augmentation MCMC for Bayesian Inference from Privatized Data&lt;/a&gt; with Jordan A. Awan, Ruobin Gong, and Vinayak A. Rao is accepted to NeurIPS 2022.&lt;/li&gt;
 &lt;li&gt;I am teaching Stat/Ma 519: Introduction to Probability in Fall 2022.&lt;/li&gt;
 &lt;li&gt;I become an associate member of Regenstrief Center for Healthcare Engineering, starting June 2022.&lt;/li&gt;
 &lt;li&gt;I received my first grant &amp;ldquo;Statistical

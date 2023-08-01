@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evolutionary biology | Nianqiao Ju</title>
+    <link>https://nianqiaoju.github.io/category/evolutionary-biology/</link>
+      <atom:link href="https://nianqiaoju.github.io/category/evolutionary-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>evolutionary biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
+      <title>evolutionary biology</title>
+      <link>https://nianqiaoju.github.io/category/evolutionary-biology/</link>
+    </image>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

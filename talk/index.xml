@@ -5,12 +5,44 @@
     <link>https://nianqiaoju.github.io/talk/</link>
       <atom:link href="https://nianqiaoju.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 17:00:44 -1740</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2023 10:30:00 -1100</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://nianqiaoju.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title> SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections </title>
+      <link>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</link>
+      <pubDate>Mon, 07 Aug 2023 10:30:00 -1100</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data </title>
+      <link>https://nianqiaoju.github.io/talk/mcmcdp1-cas23/</link>
+      <pubDate>Mon, 17 Jul 2023 11:00:50 -0400</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcdp1-cas23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/talk/snp-slice-icsa23/</link>
+      <pubDate>Tue, 13 Jun 2023 13:30:00 -0400</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/snp-slice-icsa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data</title>
+      <link>https://nianqiaoju.github.io/talk/mcmcdp1-bff8/</link>
+      <pubDate>Fri, 05 May 2023 15:00:00 -1600</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcdp1-bff8/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bernoulli, sum of Bernoullis and Markov chain</title>
