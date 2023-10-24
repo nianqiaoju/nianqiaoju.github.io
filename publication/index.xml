@@ -5,12 +5,20 @@
     <link>https://nianqiaoju.github.io/publication/</link>
       <atom:link href="https://nianqiaoju.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://nianqiaoju.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Conditional Density Estimations from Privacy-Protected Data</title>
+      <link>https://nianqiaoju.github.io/publication/neuraldensity/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/neuraldensity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>

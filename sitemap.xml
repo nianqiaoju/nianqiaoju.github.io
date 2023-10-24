@@ -2,37 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</loc>
-    <lastmod>2023-08-07T10:30:00-11:00</lastmod>
+    <loc>https://nianqiaoju.github.io/publication-type/3/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/authors/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/categories/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication/neuraldensity/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/category/differential-privacy/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/nianqiao-ju/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication_types/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/sanguo-zhang/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/yifei-xiong/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/talk/snp-slice-jsm23/</loc>
     <lastmod>2023-08-07T10:30:00-11:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/talk/</loc>
     <lastmod>2023-08-07T10:30:00-11:00</lastmod>
   </url><url>
-    <loc>https://nianqiaoju.github.io/publication-type/3/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/authors/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/categories/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nianqiaoju.github.io/category/evolutionary-biology/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/author/jiawei-liu/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/author/nianqiao-ju/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/publication_types/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/publication/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/author/qixin-he/</loc>
@@ -47,6 +59,9 @@
     <loc>https://nianqiaoju.github.io/talk/snp-slice-icsa23/</loc>
     <lastmod>2023-06-13T13:30:00-04:00</lastmod>
   </url><url>
+    <loc>https://nianqiaoju.github.io/talk/mcmcdp1-umn/</loc>
+    <lastmod>2023-05-19T15:00:00-16:00</lastmod>
+  </url><url>
     <loc>https://nianqiaoju.github.io/talk/mcmcdp1-bff8/</loc>
     <lastmod>2023-05-05T15:00:00-16:00</lastmod>
   </url><url>
@@ -54,9 +69,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/publication/dpneurips/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/category/differential-privacy/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/author/jordan-a.-awan/</loc>
