@@ -5,12 +5,20 @@
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/</link>
     </image>
+    
+    <item>
+      <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
+      <link>https://nianqiaoju.github.io/publication/hybridgibbs/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/hybridgibbs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conditional Density Estimations from Privacy-Protected Data</title>
@@ -155,7 +163,9 @@
       <guid>https://nianqiaoju.github.io/news/</guid>
       <description>&lt;h1 id=&#34;2023&#34;&gt;2023&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Our paper &lt;a href=&#34;https://arxiv.org/abs/2310.12781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conditional Density Estimations from Privacy-Protected Data&lt;/a&gt; with Yifei Xiong and Sanguo Zhang is on arxiv.&lt;/li&gt;
+&lt;li&gt;I am teaching STAT 519: Probability in Spring 2024.&lt;/li&gt;
+&lt;li&gt;New paper &lt;a href=&#34;https://arxiv.org/abs/2312.12782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral gap bounds for reversible hybrid Gibbs chains&lt;/a&gt; with Qian Qin and Guanyang Wang is on Arxiv.&lt;/li&gt;
+&lt;li&gt;Our paper &lt;a href=&#34;https://arxiv.org/abs/2310.12781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conditional Density Estimations from Privacy-Protected Data&lt;/a&gt; with Yifei Xiong and Sanguo Zhang is on Arxiv.&lt;/li&gt;
 &lt;li&gt;Our paper &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.07.29.551098v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections&lt;/a&gt; with Jiawei Liu and Qixin is on Biorxiv.&lt;/li&gt;
 &lt;li&gt;I am teaching Stat/Math 416: Probability in Fall 2023.&lt;/li&gt;
 &lt;li&gt;Qixin He and I received the 2023 Showalter Trust Research Award.&lt;/li&gt;
@@ -187,12 +197,12 @@ methods to quantify the effectiveness of active case detection for malaria&amp;r
 &lt;h1 id=&#34;-purdue&#34;&gt;@ Purdue&lt;/h1&gt;
 &lt;p&gt;I am currently teaching:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Stat/Math 416: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Fall 2023).&lt;/li&gt;
+&lt;li&gt;Stat/Math 519: Introduction to probability (Fall 2022, Spring 2022, Spring 2024).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Past courses:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Stat/Math 416: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Fall 2023).&lt;/li&gt;
 &lt;li&gt;Stat 695: Unsupervised learning (Spring 2023).&lt;/li&gt;
-&lt;li&gt;Stat/Math 519: Introduction to probability (Fall 2022, Spring 2022). &lt;a href=&#34;https://purdue.brightspace.com/d2l/home/471034&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Purdue Brightspace]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;-harvard&#34;&gt;@ Harvard&lt;/h1&gt;
 &lt;p&gt;I was a Teaching Fellow for the following courses:&lt;/p&gt;

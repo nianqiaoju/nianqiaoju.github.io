@@ -3,30 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nianqiaoju.github.io/publication-type/3/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/authors/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/categories/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/tag/gibbs-sampler/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/guanyang-wang/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/tag/mcmc/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/category/mcmc/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/nianqiao-ju/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication_types/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/author/qian-qin/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/publication/hybridgibbs/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nianqiaoju.github.io/tags/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/publication/neuraldensity/</loc>
     <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/category/differential-privacy/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/author/nianqiao-ju/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/publication_types/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/publication/</loc>
     <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nianqiaoju.github.io/author/sanguo-zhang/</loc>
@@ -142,8 +163,6 @@
     <loc>https://nianqiaoju.github.io/author/nianqiao-phyllis-ju/</loc>
   </url><url>
     <loc>https://nianqiaoju.github.io/post/</loc>
-  </url><url>
-    <loc>https://nianqiaoju.github.io/tags/</loc>
   </url><url>
     <loc>https://nianqiaoju.github.io/teaching/</loc>
   </url>
