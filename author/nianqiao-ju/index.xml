@@ -5,12 +5,28 @@
     <link>https://nianqiaoju.github.io/author/nianqiao-ju/</link>
       <atom:link href="https://nianqiaoju.github.io/author/nianqiao-ju/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/author/nianqiao-ju/</link>
     </image>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Inference for Privatized Data with Unknown Sample Size</title>
+      <link>https://nianqiaoju.github.io/publication/unbounded/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/unbounded/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
@@ -25,14 +41,6 @@
       <link>https://nianqiaoju.github.io/publication/neuraldensity/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/publication/neuraldensity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
-      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
       <description></description>
     </item>
     

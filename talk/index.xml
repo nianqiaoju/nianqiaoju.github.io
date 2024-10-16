@@ -5,12 +5,28 @@
     <link>https://nianqiaoju.github.io/talk/</link>
       <atom:link href="https://nianqiaoju.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2023 10:30:00 -1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://nianqiaoju.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Data Augmentation MCMC: connections to privacy and advances in convergence analysis</title>
+      <link>https://nianqiaoju.github.io/talk/mcmcda-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcda-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods to learn mixed infections</title>
+      <link>https://nianqiaoju.github.io/talk/snp-slice-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/snp-slice-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections </title>
