@@ -5,7 +5,7 @@
     <link>https://nianqiaoju.github.io/tag/mcmc/</link>
       <atom:link href="https://nianqiaoju.github.io/tag/mcmc/index.xml" rel="self" type="application/rss+xml" />
     <description>MCMC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>MCMC</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
-      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <link>https://nianqiaoju.github.io/publication/soma/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/soma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
       <link>https://nianqiaoju.github.io/publication/hybridgibbs/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/publication/hybridgibbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC: connections to privacy and advances in convergence analysis</title>
+      <link>https://nianqiaoju.github.io/talk/mcmcda-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcda-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <link>https://nianqiaoju.github.io/talk/2025soma/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/2025soma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
+      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
       <description></description>
     </item>
     

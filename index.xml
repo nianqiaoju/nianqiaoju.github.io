@@ -5,12 +5,52 @@
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao Ju</title>
       <link>https://nianqiaoju.github.io/</link>
     </image>
+    
+    <item>
+      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <link>https://nianqiaoju.github.io/publication/soma/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/soma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based Bayesian inference from privacy-protected data</title>
+      <link>https://nianqiaoju.github.io/publication/neuraldensity/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/neuraldensity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
+      <link>https://nianqiaoju.github.io/publication/hybridgibbs/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/hybridgibbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation MCMC: connections to privacy and advances in convergence analysis</title>
+      <link>https://nianqiaoju.github.io/talk/mcmcda-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/mcmcda-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <link>https://nianqiaoju.github.io/talk/2025soma/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/2025soma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
@@ -41,22 +81,6 @@
       <link>https://nianqiaoju.github.io/talk/snp-slice-2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/talk/snp-slice-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
-      <link>https://nianqiaoju.github.io/publication/hybridgibbs/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/hybridgibbs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conditional Density Estimations from Privacy-Protected Data</title>
-      <link>https://nianqiaoju.github.io/publication/neuraldensity/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/neuraldensity/</guid>
       <description></description>
     </item>
     
@@ -181,17 +205,24 @@
     </item>
     
     <item>
-      <title>Annals</title>
+      <title>My path</title>
       <link>https://nianqiaoju.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/news/</guid>
-      <description>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;I am jointly organizing the &lt;a href=&#34;https://sites.google.com/view/monte-carlo-seminar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Monte Carlo Seminar&lt;/a&gt;. Also check out our &lt;a href=&#34;https://www.youtube.com/@MonteCarloSeminar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Channel&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;New R01 grant &lt;em&gt;Systems biology to predict progression and treatment response in NTM pulmonary infections&lt;/em&gt; from NIH-NIAID. This is a sub-award from  Mayo Clinic.&lt;/li&gt;
-&lt;li&gt;Our paper &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/40/6/btae344/7695237&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections&lt;/a&gt; with Jiawei Liu and Qixin is published on &lt;em&gt;Bioinformatics&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;I am teaching Stat/Math 416: Probability in Fall 2024 and Spring 2025.&lt;/li&gt;
-&lt;li&gt;I am teaching STAT 519: Probability in Spring 2024.&lt;/li&gt;
+&lt;li&gt;07/25: Join the Department of Mathematics at Dartmouth College.&lt;/li&gt;
+&lt;li&gt;05/25: New manuscript &lt;a href=&#34;https://arxiv.org/abs/2505.00635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOMA: a novel sampler for exchangeable variables&lt;/a&gt; with Yifei Xiong is on arxiv.&lt;/li&gt;
+&lt;li&gt;03/25: &lt;a href=&#34;https://arxiv.org/abs/2310.12781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simulation-based Bayesian inference from privacy-protected data&lt;/a&gt; with Yifei Xiong and Sanguo Zhang accepted by the &lt;em&gt;Transactions of Machine Learning Research&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/25: &lt;a href=&#34;https://arxiv.org/abs/2312.12782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral gap bounds for reversible hybrid Gibbs chains&lt;/a&gt; with Qian Qin and Guanyang Wang has been accepted by the &lt;em&gt;Annals of Statistics&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;10/24: I am jointly organizing the &lt;a href=&#34;https://sites.google.com/view/monte-carlo-seminar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Online Monte Carlo Seminar&lt;/a&gt;. Also check out our &lt;a href=&#34;https://www.youtube.com/@MonteCarloSeminar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Channel&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;09/24: New R01 grant &lt;em&gt;Systems biology to predict progression and treatment response in NTM pulmonary infections&lt;/em&gt; from NIH-NIAID. This is a sub-award from  Mayo Clinic.&lt;/li&gt;
+&lt;li&gt;05/24: Our paper &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/40/6/btae344/7695237&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections&lt;/a&gt; with Jiawei Liu and Qixin is published on &lt;em&gt;Bioinformatics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;03/24: I am teaching Stat/Math 416: Probability in Fall 2024 and Spring 2025.&lt;/li&gt;
+&lt;li&gt;01/24: I am teaching STAT 519: Probability in Spring 2024.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2023&#34;&gt;2023&lt;/h1&gt;
 &lt;ul&gt;
@@ -220,18 +251,41 @@ methods to quantify the effectiveness of active case detection for malaria&amp;r
     </item>
     
     <item>
+      <title>Students</title>
+      <link>https://nianqiaoju.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/students/</guid>
+      <description>&lt;h1 id=&#34;graduate-mentees&#34;&gt;Graduate mentees&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Yifei Xiong (Purdue Stat PhD, Fall 2024 - ) &lt;a href=&#34;https://yifei-xiong.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yifei-xiong.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chaoyu Ding (Purdue Stat PhD, Fall 2023 - )
+&lt;ul&gt;
+&lt;li&gt;Purdue Graduate Teaching Award 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Yi-Ting Hung (Purdue Stat MS, 2023 - 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;undergradaute-mentees&#34;&gt;Undergradaute mentees&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Jiawen Lyu (Purdue CS BS 2025 -&amp;gt; Columbus CS MS)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://nianqiaoju.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/teaching/</guid>
       <description>&lt;p&gt;All courses are graduate-level unless otherwise noted.&lt;/p&gt;
+&lt;h1 id=&#34;-dartmouth&#34;&gt;@ Dartmouth&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;MATH 20: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Fall 2025)&lt;/li&gt;
+&lt;li&gt;MATH 146: Current topics in applied math (Winter 2026)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;-purdue&#34;&gt;@ Purdue&lt;/h1&gt;
-&lt;p&gt;I am currently teaching:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Stat/Math 416: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Spring 2025, Fall 2024, Fall 2023).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Past courses:&lt;/p&gt;
-&lt;ul&gt;
 &lt;li&gt;Stat/Math 519: Introduction to probability (Fall 2022, Spring 2022, Spring 2024).&lt;/li&gt;
 &lt;li&gt;Stat 695: Unsupervised learning (Spring 2023).&lt;/li&gt;
 &lt;/ul&gt;
