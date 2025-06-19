@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nianqiao &#34;Phyllis&#34; Ju | Nianqiao Ju</title>
+    <title>Nianqiao Phyllis Ju | Nianqiao &#39;Phyllis&#39; Ju</title>
     <link>https://nianqiaoju.github.io/author/nianqiao-phyllis-ju/</link>
       <atom:link href="https://nianqiaoju.github.io/author/nianqiao-phyllis-ju/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nianqiao &#34;Phyllis&#34; Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Nianqiao Phyllis Ju</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nianqiaoju.github.io/author/nianqiao-phyllis-ju/avatar_huc09fd31ce9bb786d1041f70ffa59556f_2869342_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Nianqiao &#34;Phyllis&#34; Ju</title>
+      <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
+      <title>Nianqiao Phyllis Ju</title>
       <link>https://nianqiaoju.github.io/author/nianqiao-phyllis-ju/</link>
     </image>
+    
+    <item>
+      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <link>https://nianqiaoju.github.io/publication/soma/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/soma/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

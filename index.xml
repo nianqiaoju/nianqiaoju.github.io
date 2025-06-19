@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nianqiao Ju</title>
+    <title>Nianqiao &#39;Phyllis&#39; Ju</title>
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nianqiao Ju</description>
+    <description>Nianqiao &#39;Phyllis&#39; Ju</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
-      <title>Nianqiao Ju</title>
+      <title>Nianqiao &#39;Phyllis&#39; Ju</title>
       <link>https://nianqiaoju.github.io/</link>
     </image>
     
@@ -257,7 +257,11 @@ methods to quantify the effectiveness of active case detection for malaria&amp;r
       <guid>https://nianqiaoju.github.io/students/</guid>
       <description>&lt;h1 id=&#34;graduate-mentees&#34;&gt;Graduate mentees&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Yifei Xiong (Purdue Stat PhD, Fall 2024 - ) &lt;a href=&#34;https://yifei-xiong.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yifei-xiong.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yifei Xiong (Purdue Stat PhD, Fall 2024 - )
+&lt;ul&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://yifei-xiong.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yifei-xiong.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Chaoyu Ding (Purdue Stat PhD, Fall 2023 - )
 &lt;ul&gt;
 &lt;li&gt;Purdue Graduate Teaching Award 2025&lt;/li&gt;
@@ -267,7 +271,7 @@ methods to quantify the effectiveness of active case detection for malaria&amp;r
 &lt;/ul&gt;
 &lt;h1 id=&#34;undergradaute-mentees&#34;&gt;Undergradaute mentees&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Jiawen Lyu (Purdue CS BS 2025 -&amp;gt; Columbus CS MS)&lt;/li&gt;
+&lt;li&gt;Jiawen Lyu (Purdue CS BS 2025 -&amp;gt; Columbia CS MS)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
