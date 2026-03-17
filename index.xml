@@ -5,7 +5,7 @@
     <link>https://nianqiaoju.github.io/</link>
       <atom:link href="https://nianqiaoju.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nianqiao &#39;Phyllis&#39; Ju</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nianqiaoju.github.io/images/icon_hud98e4cdd9766bb3e408ed57f2d829793_23919_512x512_fill_lanczos_center_3.png</url>
       <title>Nianqiao &#39;Phyllis&#39; Ju</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
-      <title>SOMA: a novel sampler for exchangeable variables</title>
-      <link>https://nianqiaoju.github.io/publication/soma/</link>
+      <title>Learning mixed-infection strains from older hosts: a new sampling scheme for malaria epidemiology and population genetics</title>
+      <link>https://nianqiaoju.github.io/publication/2025agestructure/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/publication/2025agestructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving probabilistic machine learning: a preview </title>
+      <link>https://nianqiaoju.github.io/talk/2025preview/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nianqiaoju.github.io/talk/2025preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOMA: A Novel Sampler for Bayesian Inference from Privatized Data</title>
+      <link>https://nianqiaoju.github.io/publication/2025soma/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/soma/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2025soma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation-based Bayesian inference from privacy-protected data</title>
-      <link>https://nianqiaoju.github.io/publication/neuraldensity/</link>
+      <link>https://nianqiaoju.github.io/publication/2025neuraldensity/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/neuraldensity/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2025neuraldensity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectral gap bounds for reversible hybrid Gibbs chains</title>
-      <link>https://nianqiaoju.github.io/publication/hybridgibbs/</link>
+      <link>https://nianqiaoju.github.io/publication/2025hybridgibbs/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/hybridgibbs/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2025hybridgibbs/</guid>
       <description></description>
     </item>
     
@@ -45,7 +61,7 @@
     </item>
     
     <item>
-      <title>SOMA: a novel sampler for exchangeable variables</title>
+      <title>SOMA: A Novel Sampler for Bayesian Inference from Privatized Data</title>
       <link>https://nianqiaoju.github.io/talk/2025soma/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/talk/2025soma/</guid>
@@ -54,17 +70,17 @@
     
     <item>
       <title>SNP-Slice: A Bayesian nonparametric framework to resolve SNP haplotypes in mixed infections</title>
-      <link>https://nianqiaoju.github.io/publication/snpslice/</link>
+      <link>https://nianqiaoju.github.io/publication/2024snpslice/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/snpslice/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2024snpslice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Inference for Privatized Data with Unknown Sample Size</title>
-      <link>https://nianqiaoju.github.io/publication/unbounded/</link>
+      <link>https://nianqiaoju.github.io/publication/2025unbounded/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/unbounded/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2025unbounded/</guid>
       <description></description>
     </item>
     
@@ -126,9 +142,9 @@
     
     <item>
       <title>Data Augmentation MCMC for Bayesian Inference from Privatized Data</title>
-      <link>https://nianqiaoju.github.io/publication/dpneurips/</link>
+      <link>https://nianqiaoju.github.io/publication/2022dpneurips/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/dpneurips/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2022dpneurips/</guid>
       <description></description>
     </item>
     
@@ -198,9 +214,9 @@
     
     <item>
       <title>A Sequential Test for Selecting the Better Variant: Online A/B testing, Adaptive Allocation, and Continuous Monitoring</title>
-      <link>https://nianqiaoju.github.io/publication/etsy/</link>
+      <link>https://nianqiaoju.github.io/publication/2019etsy/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nianqiaoju.github.io/publication/etsy/</guid>
+      <guid>https://nianqiaoju.github.io/publication/2019etsy/</guid>
       <description></description>
     </item>
     
@@ -209,10 +225,16 @@
       <link>https://nianqiaoju.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/news/</guid>
-      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2026&#34;&gt;2026&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;07/25: Join the Department of Mathematics at Dartmouth College.&lt;/li&gt;
-&lt;li&gt;05/25: New manuscript &lt;a href=&#34;https://arxiv.org/abs/2505.00635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOMA: a novel sampler for exchangeable variables&lt;/a&gt; with Yifei Xiong is on arxiv.&lt;/li&gt;
+&lt;li&gt;01/26: New semester starts at Dartmouth. I teach a new graduate level topic class on &lt;a href=&#34;https://canvas.dartmouth.edu/courses/76418/assignments/syllabus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;privacy-preserving machine learning&lt;/a&gt;. Weekly recaps of this class are posted to my blog, see for example &lt;a href=&#34;https://phylliswithdata.wordpress.com/2026/02/13/math-146-winter-26-week-6-recap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;week 6 recap&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;11/25: Honored to receive the 2025 &lt;a href=&#34;https://bayesian.org/project/blackwell-rosenbluth-award/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackwell-Rosenbluth Award&lt;/a&gt; by International Society for Bayesian Analysis.&lt;/li&gt;
+&lt;li&gt;09/25: Teaching Math 20 Probability in Fall 2025.&lt;/li&gt;
+&lt;li&gt;07/25: Join the &lt;a href=&#34;https://math.dartmouth.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics&lt;/a&gt; at Dartmouth College.&lt;/li&gt;
+&lt;li&gt;05/25: New manuscript &lt;a href=&#34;https://arxiv.org/abs/2505.00635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOMA: A Novel Sampler for Bayesian Inference from Privatized Data&lt;/a&gt; with Yifei Xiong is on arxiv.&lt;/li&gt;
 &lt;li&gt;03/25: &lt;a href=&#34;https://arxiv.org/abs/2310.12781&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simulation-based Bayesian inference from privacy-protected data&lt;/a&gt; with Yifei Xiong and Sanguo Zhang accepted by the &lt;em&gt;Transactions of Machine Learning Research&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;03/25: &lt;a href=&#34;https://arxiv.org/abs/2312.12782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spectral gap bounds for reversible hybrid Gibbs chains&lt;/a&gt; with Qian Qin and Guanyang Wang has been accepted by the &lt;em&gt;Annals of Statistics&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -281,26 +303,27 @@ methods to quantify the effectiveness of active case detection for malaria&amp;r
       <link>https://nianqiaoju.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nianqiaoju.github.io/teaching/</guid>
-      <description>&lt;p&gt;All courses are graduate-level unless otherwise noted.&lt;/p&gt;
+      <description>&lt;h4 id=&#34;--undergraduate---graduate&#34;&gt;Ⓤ = Undergraduate, Ⓖ = Graduate&lt;/h4&gt;
 &lt;h1 id=&#34;-dartmouth&#34;&gt;@ Dartmouth&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;MATH 20: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Fall 2025)&lt;/li&gt;
-&lt;li&gt;MATH 146: Current topics in applied math (Winter 2026)&lt;/li&gt;
+&lt;li&gt;Ⓤ MATH 20: Probability (&lt;a href=&#34;https://math.dartmouth.edu/~m20f25/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fall 2025&lt;/a&gt;, Fall 2026, Spring 2027)&lt;/li&gt;
+&lt;li&gt;Ⓤ MATH 70: Elements of Multivariable Statistics and Statistical Learning (Spring 2027)&lt;/li&gt;
+&lt;li&gt;Ⓖ MATH 146: Current topics in applied math (&lt;a href=&#34;https://math.dartmouth.edu/~m146w26/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Winter 2026: Privacy-preserving machine learning&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;-purdue&#34;&gt;@ Purdue&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Stat/Math 416: &lt;u&gt;Undergraduate&lt;/u&gt; probability (Spring 2025, Fall 2024, Fall 2023).&lt;/li&gt;
-&lt;li&gt;Stat/Math 519: Introduction to probability (Fall 2022, Spring 2022, Spring 2024).&lt;/li&gt;
-&lt;li&gt;Stat 695: Unsupervised learning (Spring 2023).&lt;/li&gt;
+&lt;li&gt;Ⓤ Stat/Math 416: Probability (Spring 2025, Fall 2024, Fall 2023).&lt;/li&gt;
+&lt;li&gt;Ⓖ Stat/Math 519: Introduction to probability (Fall 2022, Spring 2022, Spring 2024).&lt;/li&gt;
+&lt;li&gt;Ⓖ Stat 695: Unsupervised learning (Spring 2023).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;-harvard&#34;&gt;@ Harvard&lt;/h1&gt;
 &lt;p&gt;I was a Teaching Fellow for the following courses:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Stat 210: Probability Theory I (Fall 2017, 2018, and 2019).&lt;/p&gt;
+&lt;p&gt;Ⓖ Stat 210: Probability Theory I (Fall 2017, 2018, and 2019).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Stat 213: Statistical Inference II (Spring 2018 and 2019).&lt;/p&gt;
+&lt;p&gt;Ⓖ Stat 213: Statistical Inference II (Spring 2018 and 2019).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
