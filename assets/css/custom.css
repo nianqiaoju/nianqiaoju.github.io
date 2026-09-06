@@ -1,0 +1,40 @@
+.prose {
+max-width: 100%;
+}
+.max-w-prose {
+max-width: 100%;
+}
+.container {
+  max-width: 1200px; /* Change this value to your preferred width */
+  margin: 0 auto;    /* Centers the container */
+  width: 100%;       /* Ensures it is responsive on smaller screens */
+}
+/* Wide content blocks.
+   The block wrapper is `flex flex-col items-center`, and `align-items: center`
+   makes each child shrink-to-fit its content - so a section with short lines
+   renders narrow no matter how large `max-width` is. `max-width` only raises
+   the ceiling; `width` is what actually fills the space.
+   Opt a section in with `design.css_class: 'wide-prose'` in its front matter. */
+.wide-prose .prose {
+  width: 100%;
+}
+
+/* Publication citation lists render outside `.prose`, so they never get the
+   `lg:prose-xl` step-up and stay at the 16px body default while body copy on
+   other pages grows to 20px. Match the same breakpoint (Tailwind `lg` = 1024px)
+   so the two only ever change together. */
+@media (min-width: 1024px) {
+  .pub-list-item {
+    font-size: 1.25rem;
+    line-height: 1.7;
+  }
+}
+
+/* The publication list sits in `.container.max-w-3xl`, so the `.container`
+   rule above caps it at 1200px while the prose pages track the viewport.
+   Let it be fluid too, keeping gutters equal to the prose pages' `px-6`. */
+.container.max-w-3xl {
+  max-width: 100%;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
