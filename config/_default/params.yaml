@@ -163,9 +163,9 @@ hugoblox:
   # Content rendering and behavior
   # ────────────────────────────────────────────────────────────────────────────
   content:
-    # Math rendering
+    # Math rendering (KaTeX). Needed for $...$ in abstracts.
     math:
-      enable: false
+      enable: true
     # Table of contents
     toc:
       enable: true

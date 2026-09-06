@@ -57,6 +57,7 @@ sections:
     content:
       title: Featured Publications
       text: ''
+      count: 0
       filters:
         folders:
           - publications
@@ -68,17 +69,13 @@ sections:
     content:
       title: Recent Publications
       text: ''
+      count: 4
       filters:
         folders:
           - publications
         exclude_featured: true
     design:
       view: citation
-  - block: resume-awards
-    id: awards
-    content:
-      title: Awards
-      username: me
   - block: markdown
     id: grants
     content:
@@ -91,4 +88,9 @@ sections:
     design:
       columns: '1'
       css_style: 'width: 100%; max-width: 100%;'
+  - block: resume-awards
+    id: awards
+    content:
+      title: Awards
+      username: me
 ---
