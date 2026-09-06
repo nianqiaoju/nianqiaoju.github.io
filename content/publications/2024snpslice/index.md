@@ -25,7 +25,7 @@ tags:
   - Bayesian inference
   - Gibbs sampler
 
-featured: false
+featured: true
 
 links:
   - type: pdf

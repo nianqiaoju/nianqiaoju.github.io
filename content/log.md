@@ -37,6 +37,10 @@ sections:
       title: 'Log'
       text: |- 
         # 2026
+        - 09/26: New NSF award 'Efficient Bayesian Computations for Inference from Privatized Data'.
+        - 09/26: Teaching Math 20 Probability in Fall 2026. 
+        - 05/26: Three undergraduate mentees selected for the Presidential Scholars program at Dartmouth.  
+        - 03/26: Organized a reading group that follows '[Counting and Markov Chains](http://www.math.cmu.edu/~af1p/Mixingbook.pdf)' by Mark Jerrum. 
         - 01/26: New semester starts at Dartmouth. I teach a new graduate level topic class on [privacy-preserving machine learning](https://canvas.dartmouth.edu/courses/76418/assignments/syllabus). Weekly recaps of this class are posted to my blog, see for example [week 6 recap](https://phylliswithdata.wordpress.com/2026/02/13/math-146-winter-26-week-6-recap/). 
 
         # 2025

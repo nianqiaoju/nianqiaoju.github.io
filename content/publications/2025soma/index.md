@@ -24,7 +24,7 @@ tags:
   - data augmentation
   - differential privacy
 
-featured: true
+featured: false
 
 hugoblox:
   ids:

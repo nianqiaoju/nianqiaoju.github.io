@@ -17,9 +17,9 @@ sections:
       
 
       In my blog [phylliswithdata.wordpress.com](https://www.phylliswithdata.wordpress.com), I thrive to communicate statistical ideas and research in data privacy to a broad audience. I am on the organizing team of the [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar). Follow us on [YouTube](https://www.youtube.com/@MonteCarloSeminar).
+      '
+       # If you are interested in working with me, you can apply for the [postdoc position](https://math.dartmouth.edu/activities/recruiting/recruiting_fliers_2026/PDSML-2026.pdf) on [mathjobs](https://www.mathjobs.org/jobs/list/26966) or to our [PhD program in math/applied math](https://math.dartmouth.edu/graduate-students/appl-info/).
 
-
-      If you are interested in working with me, you can apply for the [postdoc position](https://math.dartmouth.edu/activities/recruiting/recruiting_fliers_2026/PDSML-2026.pdf) on [mathjobs](https://www.mathjobs.org/jobs/list/26966) or to our [PhD program in math/applied math](https://math.dartmouth.edu/graduate-students/appl-info/).'
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
@@ -46,23 +46,32 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+        - New NSF award 'Efficient Bayesian Computations for Inference from Privatized Data' starts in September 2026.
+        - The Fall 2026 season of [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar) is returning soon. Stay tuned!
         - Honored to receive the 2025 [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) by International Society for Bayesian Analysis. 
-        - Fall 2025 season of [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar) returns on September 23. 
-        - I am joining the Department of Mathematics at Dartmouth College in July 2025. I am teaching MATH 20 (Probability) in Fall'25 and MATH 146 (Current topics in applied math, on data privacy and Bayesian statistics) in Winter'26.
-        - New manuscript [SOMA: a novel sampler for exchangeable variables](https://arxiv.org/abs/2505.00635) with Yifei Xiong is on arxiv.
-        - [Spectral gap bounds for reversible hybrid Gibbs chains](https://arxiv.org/abs/2312.12782) with Qian Qin and Guanyang Wang has been accepted by the *Annals of Statistics*. 
     design:
       columns: '1'
       css_style: 'width: 100%; max-width: 100%;'
   - block: collection
     id: papers
     content:
+      title: Featured Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: citation
+  - block: collection
+    id: recent
+    content:
       title: Recent Publications
       text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: resume-awards
@@ -75,6 +84,7 @@ sections:
     content:
       title: 'Grants'
       text: |-
+        - **NSF-DMS**, *Efficient Bayesian Computations for Inference from Privatized Data* September 2026 - August 2029. 
         - **NIH-NIAID**, *Systems biology to predict progression and treatment response in NTM pulmonary infections* (subaward from Mayo Clinic). July 2024 - June 2029.
         - **Showalter Trust Young Investigator Award**, Purdue University. July 2023 - June 2024.
         - **Biostatistics, Epidemiology, and Research Design (BERD) pilot program**, Indiana CTSI. May 2022 - April 2023.

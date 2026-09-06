@@ -11,7 +11,6 @@ publishDate: 2023-12-20
 
 # Publication type (CSL standard).
 publication_types: ['article-journal']
-
 publication: "Annals of Statistics, accepted"
 publication_short: "AoS"
 
