@@ -26,6 +26,13 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  # Hide the "share this page" buttons everywhere. The theme gates them on
+  # `.Params.share` per page (see page_sharer.html), so cascade sets it once
+  # for every page, including any added later. Set `share: true` in a single
+  # page's front matter to bring them back on that page only.
+  - target:
+      kind: page
+    share: false
 
 ############################
 ## ADVANCED

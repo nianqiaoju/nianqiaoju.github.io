@@ -1,28 +1,56 @@
-.prose {
-max-width: 100%;
-}
+/* ===========================================================================
+   custom.css — overrides of HugoBlox theme internals.
+
+   These rules target the theme's own class names (.prose, .container,
+   .pub-list-item, .space-y-16). If a theme update renames them, nothing
+   errors — the site just quietly looks wrong.
+
+   Full rationale, fragility ratings and a post-upgrade checklist:
+   Dropbox/website/CUSTOM-CSS-NOTES.md
+   =========================================================================== */
+
+
+/* --- Page width ---------------------------------------------------------- */
+
+/* Lift Tailwind's reading-width cap (~65 chars).
+   NOTE: max-width only permits width — it never creates any. The rules below
+   supply the actual width. */
+.prose,
 .max-w-prose {
-max-width: 100%;
+  max-width: 100%;
 }
+
+/* Generic container cap. Broad reach: every .container on the site. */
 .container {
-  max-width: 1200px; /* Change this value to your preferred width */
-  margin: 0 auto;    /* Centers the container */
-  width: 100%;       /* Ensures it is responsive on smaller screens */
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
 }
-/* Wide content blocks.
-   The block wrapper is `flex flex-col items-center`, and `align-items: center`
-   makes each child shrink-to-fit its content - so a section with short lines
-   renders narrow no matter how large `max-width` is. `max-width` only raises
-   the ceiling; `width` is what actually fills the space.
-   Opt a section in with `design.css_class: 'wide-prose'` in its front matter. */
+
+/* Landing-page blocks sit in `flex ... items-center`, which shrink-wraps each
+   child to its content — so short text renders narrow however high max-width
+   is. Opt a block in with:
+       design:
+         css_class: 'wide-prose'
+   Used by: log.md, teaching.md, students.md */
 .wide-prose .prose {
   width: 100%;
 }
 
-/* Publication citation lists render outside `.prose`, so they never get the
-   `lg:prose-xl` step-up and stay at the 16px body default while body copy on
-   other pages grows to 20px. Match the same breakpoint (Tailwind `lg` = 1024px)
-   so the two only ever change together. */
+/* Publications list would otherwise stop at the 1200px .container cap above.
+   Padding matches the px-6 gutters on the prose pages. */
+.container.max-w-3xl {
+  max-width: 100%;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+
+/* --- Publication citations ---------------------------------------------- */
+
+/* Citations render outside .prose, so they miss its lg:prose-xl step-up and
+   stay at 16px while body text elsewhere grows to 20px.
+   1024px is Tailwind's own `lg`, so the two always change together. */
 @media (min-width: 1024px) {
   .pub-list-item {
     font-size: 1.25rem;
@@ -30,11 +58,93 @@ max-width: 100%;
   }
 }
 
-/* The publication list sits in `.container.max-w-3xl`, so the `.container`
-   rule above caps it at 1200px while the prose pages track the viewport.
-   Let it be fluid too, keeping gutters equal to the prose pages' `px-6`. */
-.container.max-w-3xl {
-  max-width: 100%;
-  padding-left: 1.5rem;
+
+/* --- Blog listing --------------------------------------------------------
+   Active view: date-title-summary (set in content/blog/_index.md).
+   Every rule here keys off .space-y-16, which only that view emits — so none
+   of it leaks to the 46 other pages that also use max-w-3xl.
+   ------------------------------------------------------------------------- */
+
+/* Full width, matching /log/ and /students/.
+   `wide-prose` can't be used: /blog/ is a section list page, not a landing
+   page, so design.css_class never reaches it. Two caps to lift — w-fit on the
+   outer wrapper, max-w-3xl on the inner. */
+.w-fit:has(.space-y-16) {
+  width: 100%;
+  padding-left: 1.5rem;   /* match px-6 on the prose pages */
   padding-right: 1.5rem;
+}
+.space-y-16 {
+  max-width: 100%;
+}
+
+/* Keep the date column narrow. The view uses md:grid-cols-4 — four EQUAL
+   tracks — so at full page width the date is stranded ~313px from the title.
+   The content div is md:col-span-3, so keep four tracks and shrink the first.
+   768px is Tailwind's `md`, where this grid starts. */
+@media (min-width: 768px) {
+  .space-y-16 > article {
+    grid-template-columns: 12rem repeat(3, 1fr);
+  }
+}
+
+/* Compact rows: 4rem gap -> 1.5rem, and 2-line summaries instead of 3. */
+.space-y-16 > :not(:last-child) {
+  margin-block-end: 1.5rem;
+}
+.space-y-16 .line-clamp-3 {
+  -webkit-line-clamp: 2;
+}
+
+/* Bold, theme-coloured post titles.
+   --color-primary-500 is #00693e under the default pack, and follows whichever
+   pack a visitor picks in the theme switcher. */
+.space-y-16 h2,
+.space-y-16 h2 a {
+  font-weight: 700;
+  color: var(--color-primary-500);
+}
+
+/* Drop the "Read more" line. This view ignores the show_read_more front-matter
+   switch, so it has to be CSS. The element is already aria-hidden, and the row
+   stays clickable via the overlay inside the title's <a>. */
+.space-y-16 div[aria-hidden="true"].text-primary-500 {
+  display: none;
+}
+
+
+/* --- Blog listing, card view — INACTIVE ----------------------------------
+   Only applies if you set `view: card` in content/blog/_index.md.
+   Two warnings if you do:
+     - these classes are shared by /tags/* and /publication_types/*, so this
+       tightens those pages too;
+     - card renders a large placeholder image for posts with no cover image.
+   With card, prefer the front-matter switches over CSS:
+       show_read_time: false
+       show_read_more: false
+   ------------------------------------------------------------------------- */
+.max-w-\[65ch\] .p-8 {
+  padding: 1.25rem;
+}
+.max-w-\[65ch\] .line-clamp-3 {
+  -webkit-line-clamp: 2;
+}
+
+/* Centre section-list page titles (/blog/, /publications/, /tags/*).
+   list.html wraps the title in `flex justify-center`, which centres it only
+   while the article shrink-wraps to it. Add body text to the section's
+   _index.md and the article fills the width, so the title falls left — which
+   is what happened to /blog/. text-align centres it either way.
+   `h1.lg:text-6xl` is emitted only by list.html: single pages use text-4xl,
+   landing pages (log, teaching, students) have no h1 at all. */
+article.prose > h1.lg\:text-6xl {
+  text-align: center;
+  /* Match the landing pages' block titles (.text-3xl.font-bold = 30px/700).
+     The theme's own size here is 36px below 1024px and 60px above it, which
+     made /blog/ and /publications/ titles twice the size of the ones on
+     Teaching, Log and Students. Change these two values to resize page titles;
+     do NOT restyle .text-3xl.font-bold instead — that class is shared by every
+     section heading on the home page (News, Awards, Grants...). */
+  font-size: 1.875rem;
+  font-weight: 700;
 }

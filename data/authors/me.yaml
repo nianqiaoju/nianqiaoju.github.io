@@ -24,9 +24,6 @@ affiliations:
     url: https://math.dartmouth.edu/
 
 links:
-  - icon: at-symbol
-    url: mailto:nianqiao.ju@dartmouth.edu
-    label: E-mail Me
   - icon: brands/github
     url: https://github.com/nianqiaoju
   - icon: academicons/google-scholar

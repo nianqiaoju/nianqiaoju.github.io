@@ -14,9 +14,8 @@ sections:
 
       
       My Chinese name is 鞠念桥 and you can also call me Phyllis. You can contact me at `nianqiao DOT ju AT dartmouth DOT edu`.
-      
 
-      In my blog [phylliswithdata.wordpress.com](https://www.phylliswithdata.wordpress.com), I thrive to communicate statistical ideas and research in data privacy to a broad audience. I am on the organizing team of the [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar). Follow us on [YouTube](https://www.youtube.com/@MonteCarloSeminar).
+      I take Ph.D. students in Dartmouth''s [math/applied math](https://math.dartmouth.edu/graduate-students/appl-info/) as well as the [computational science and modeling](https://sites.dartmouth.edu/csmp/) programs. 
       '
        # If you are interested in working with me, you can apply for the [postdoc position](https://math.dartmouth.edu/activities/recruiting/recruiting_fliers_2026/PDSML-2026.pdf) on [mathjobs](https://www.mathjobs.org/jobs/list/26966) or to our [PhD program in math/applied math](https://math.dartmouth.edu/graduate-students/appl-info/).
 
@@ -47,7 +46,7 @@ sections:
       subtitle: ''
       text: |-
         - New NSF award 'Efficient Bayesian Computations for Inference from Privatized Data' starts in September 2026.
-        - The Fall 2026 season of [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar) is returning soon. Stay tuned!
+        - The Fall 2026 season of [Online Monte Carlo Seminar](https://sites.google.com/view/monte-carlo-seminar) is returning soon. Stay tuned and follow our [YouTube channel](https://www.youtube.com/@MonteCarloSeminar).
         - Honored to receive the 2025 [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) by International Society for Bayesian Analysis. 
     design:
       columns: '1'
