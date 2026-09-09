@@ -15,6 +15,7 @@ sections:
 
       My research interests include Bayesian statistics, Monte Carlo methods, differential privacy, and applied statistics. 
 
+
       Prior to Dartmouth, I completed my Ph.D. in Statistics at Harvard University and B.A. in Mathematics and Physics from Wellesley College.
 
       
