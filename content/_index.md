@@ -10,10 +10,16 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: 'I am Assistant Professor of Mathematics at Dartmouth College. My research interests include Bayesian statistics, Monte Carlo methods, differential privacy, and applied statistics. Prior to Dartmouth, I completed my Ph.D. in Statistics at Harvard University and B.A. in Mathematics and Physics from Wellesley College.
+      text: 'I am Assistant Professor of Mathematics at Dartmouth College. 
+
+
+      My research interests include Bayesian statistics, Monte Carlo methods, differential privacy, and applied statistics. 
+
+      Prior to Dartmouth, I completed my Ph.D. in Statistics at Harvard University and B.A. in Mathematics and Physics from Wellesley College.
 
       
       My Chinese name is 鞠念桥 and you can also call me Phyllis. You can contact me at `nianqiao DOT ju AT dartmouth DOT edu`.
+
 
       I take Ph.D. students in Dartmouth''s [math/applied math](https://math.dartmouth.edu/graduate-students/appl-info/) as well as the [computational science and modeling](https://sites.dartmouth.edu/csmp/) programs. 
       '
@@ -25,8 +31,8 @@ sections:
       #   url: uploads/resume.pdf
       headings:
         about: 'About me'
-        education: ''
-        interests: ''
+        # education: ''
+        # interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:

@@ -31,23 +31,23 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-8861-4087
 
-interests:
-  - Bayesian statistics
-  - Computational statistics & data augmentation
-  - Data privacy
-  - Computational biology
+# interests:
+#   - Bayesian statistics
+#   - Computational statistics & data augmentation
+#   - Data privacy
+#   - Computational biology
 
 # NOTE: only the graduation years were recorded on the old site (PhD 2021, BA 2016).
 # The `start` dates below are inferred from those years - correct them if wrong.
-education:
-  - degree: Ph.D. in Statistics
-    institution: Harvard University
-    start: 2016-09-01
-    end: 2021-05-31
-  - degree: B.A. in Mathematics & Physics
-    institution: Wellesley College
-    start: 2012-09-01
-    end: 2016-05-31
+# education:
+#   - degree: Ph.D. in Statistics
+#     institution: Harvard University
+#     start: 2016-09-01
+#     end: 2021-05-31
+#   - degree: B.A. in Mathematics & Physics
+#     institution: Wellesley College
+#     start: 2012-09-01
+#     end: 2016-05-31
 
 experience:
   - role: Assistant Professor of Mathematics (tenure-track)
